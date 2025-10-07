@@ -1,0 +1,10 @@
+# Ignore dataset files
+*.csv
+*.parquet
+
+# Ignore Hugging Face cache
+~/.cache/huggingface
+
+# Python cache
+__pycache__/
+*.pyc
