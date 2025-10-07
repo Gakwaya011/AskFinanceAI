@@ -8,3 +8,4 @@
 # Python cache
 __pycache__/
 *.pyc
+financeQA_train.csv
