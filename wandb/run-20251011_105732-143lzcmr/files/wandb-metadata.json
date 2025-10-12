@@ -1,0 +1,28 @@
+{
+  "os": "Linux-6.14.0-33-generic-x86_64-with-glibc2.39",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-10-11T08:57:32.125077Z",
+  "program": "/home/chris/Documents/AskFinanceAI/experiment_2000_samples.ipynb",
+  "codePath": "experiment_2000_samples.ipynb",
+  "codePathLocal": "experiment_2000_samples.ipynb",
+  "git": {
+    "remote": "https://github.com/Gakwaya011/AskFinanceAI.git",
+    "commit": "db5927bf7d9992eccebf04505aca50cf3f38329c"
+  },
+  "email": "c.gakwaya@alustudent.com",
+  "root": "/home/chris/Documents/AskFinanceAI",
+  "host": "chris-HP-EliteBook-840-G3",
+  "executable": "/home/chris/miniconda3/envs/deepclass/bin/python",
+  "cpu_count": 2,
+  "cpu_count_logical": 4,
+  "disk": {
+    "/": {
+      "total": "489997189120",
+      "used": "163278176256"
+    }
+  },
+  "memory": {
+    "total": "16645046272"
+  },
+  "writerId": "coxbkaghzc1diiqnhd216wpd7clrjtky"
+}

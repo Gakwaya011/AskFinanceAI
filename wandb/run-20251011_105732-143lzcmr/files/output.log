@@ -1,0 +1,26 @@
+✅ W&B initialized! Tracking experiment: distilgpt2-2000samples-v1
+📊 LOADING AND PREPROCESSING DATASET
+======================================================================
+Dataset loaded:
+  Training samples: 2000
+  Validation samples: 500
+  Test samples: 500
+✅ Tokenizer loaded!
+🔧 DATA PREPROCESSING - OPTIMIZED CLEANING
+======================================================================
+Applying preprocessing...
+✅ Data preprocessing completed!
+Sample formatted text: User: What is the total estimated project cost mentioned in the document? Assistant: The grand total...
+🔤 TOKENIZATION WITH PROPER HANDLING
+======================================================================
+Tokenizing datasets...
+TensorFlow and JAX classes are deprecated and will be removed in Transformers v5. We recommend migrating to PyTorch classes or pinning your version of Transformers.
+2025-10-11 10:58:59.488616: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+✅ Tokenization completed!
+Tokenized training samples: 2000
+🤖 LOADING MODEL WITH OPTIMIZED SETTINGS
+======================================================================
+TensorFlow and JAX classes are deprecated and will be removed in Transformers v5. We recommend migrating to PyTorch classes or pinning your version of Transformers.
+2025-10-11 11:00:29.601184: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:84] Allocation of 154389504 exceeds 10% of free system memory.
+2025-10-11 11:00:30.962368: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:84] Allocation of 154389504 exceeds 10% of free system memory.
+2025-10-11 11:00:53.484131: W external/local_xla/xla/tsl/framework/cpu_allocator_impl.cc:84] Allocation of 154389504 exceeds 10% of free system memory.
