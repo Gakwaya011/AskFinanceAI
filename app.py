@@ -16,7 +16,7 @@ except Exception as e:
     print(f"⚠️ Model could not be loaded: {e}")
 
 # -------------------------------
-# 2️⃣ Rule-based finance knowledge base
+# 2️⃣ Rule-based finance knowledge base       
 # -------------------------------
 predefined_responses = {
     "what is investing": "Investing means putting money into assets like stocks, bonds, or real estate with the goal of growing wealth over time.",
