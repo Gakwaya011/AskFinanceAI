@@ -49,7 +49,7 @@ A domain-specific finance chatbot built using a fine-tuned DistilGPT-2 transform
 - **Tracking**: Weights & Biases for experiment monitoring
 - **Fallback**: Enhanced rule-based system with 15+ predefined responses
 
----
+
 
 ## 📈 Model Training & Performance
 
