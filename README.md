@@ -21,6 +21,8 @@ A domain-specific finance chatbot built using a fine-tuned DistilGPT-2 transform
 
 ## 🏗️ System Architecture
 
+# 🏗️ System Architecture
+
 \`\`\`
 ┌─────────────────────────────────────────────────┐
 │            FINANCE CHATBOT SYSTEM               │
@@ -35,9 +37,10 @@ A domain-specific finance chatbot built using a fine-tuned DistilGPT-2 transform
 │                    ↓                            │
 │           Quality Evaluation                    │
 │                    ↓                            │
-│        Response Delivery                        │
+│            Response Delivery                    │
 └─────────────────────────────────────────────────┘
 \`\`\`
+
 
 **Components:**
 - **Model**: Fine-tuned DistilGPT-2 (82M parameters)
@@ -222,7 +225,7 @@ AI: I specialize in finance and investing questions. Please ask me about
 
 \`\`\`bash
 # Clone repository
-git clone https://github.com/yourusername/finance-chatbot
+git clone https://github.com/Gakwaya011/finance-chatbot
 cd finance-chatbot
 
 # Install dependencies
